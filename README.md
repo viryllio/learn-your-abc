@@ -12,7 +12,7 @@ Runtime Environment: Web browser (Chrome, Firefox, Safari)
 Libraries Used: p5.js, p5.sound
 AI Assistance: Development support for visual assets and code conversion
 Project URL: https://peaceful-elf-5b55a2.netlify.app/
-License: CC BY-NC-SA 4.0
+License: CC0 1.0 Universal
 Development Date: May & June 2025
 
 Technologies Used
