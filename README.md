@@ -4,7 +4,7 @@ This project is an interactive web application that teaches children the letters
 The app is built using the p5.js library.
 
 Project Name: Learn Your ABC
-Developer(s): Beril Anıl
+Developer(s): berry
 Project Type: Interactive web-based application
 Programming Language: JavaScript (p5.js)
 Development Environment: Visual Studio Code
@@ -16,7 +16,8 @@ License: CC BY-NC-SA 4.0
 Development Date: May & June 2025
 
 Technologies Used
-JavaScript (ES6+)
+
+JavaScript
 
 p5.js Library: The core library for drawing, animation, and interaction.
 
