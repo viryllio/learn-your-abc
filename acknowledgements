@@ -1,0 +1,34 @@
+Code References & Technical Acknowledgments
+All third-party code, libraries and assets used in this p5.js project are credited below:
+
+Processing (Java) Prototype
+– Initial sketch logic and user-drawing mechanics were first developed in Processing.
+
+p5.js
+– Core drawing, animation and interaction framework (https://p5js.org/)
+
+p5.sound
+– Audio playback and control for letter pronunciations (no Minim library in p5.js) (https://p5js.org/reference/#/libraries/p5.sound)
+
+Gemini AI Models
+– Assisted in converting the Processing prototype into JavaScript/p5.js
+
+Fonts
+– The Led Display St (main title font)
+– Game-Over (UI text)
+– System font ArialMT (fallback/display)
+
+Graphic Assets
+– Custom pixel-art buttons and object icons (created in-house; based on open-source CC0 sprites where noted)
+
+Audio Assets
+– Letter pronunciation MP3s (recorded and edited in-house)
+
+All code snippets, library links and asset sources are fully documented in the project repository.
+
+
+
+
+
+
+
