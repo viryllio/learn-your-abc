@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alphabet Learning App</title>
+    <!-- Gerekli p5.js kütüphanelerini internetten yüklüyoruz -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/addons/p5.sound.min.js"></script>
+    <!-- Kendi JavaScript kodumuzu bu dosyaya bağlıyoruz -->
+    <script src="sketch.js"></script>
+    <style>
+      /* Sayfanın kenar boşluklarını kaldırır ve canvas'ın tam oturmasını sağlar */
+      html, body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden; /* Kaydırma çubuklarını gizle */
+        background-color: #2E2E2E; /* Arka plan rengini kodla eşleştir */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+      canvas {
+        display: block;
+        box-shadow: 0px 0px 20px rgba(0,0,0,0.5);
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Tüm uygulama p5.js tarafından yukarıdaki <canvas> elemanına çizilecek -->
+  </body>
+</html>
